@@ -1,2 +1,2 @@
 # whispers
-Chinese Whispers implemented in C.
+Chinese Whispers implemented in C to demonstrate System V IPC.
